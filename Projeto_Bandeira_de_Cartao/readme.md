@@ -9,14 +9,14 @@ Este projeto tem como objetivo identificar e exibir a bandeira de um cartão de 
 
 ## Tecnologias Utilizadas
 
-- Java
-- IDE VS Code
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Como Utilizar
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/Projeto_Bandeira_de_Cartao.git
+    git clone (https://github.com/AndersonnTech/Identificador_de_Bandeira.git)
     ```
 2. Importe o projeto em sua IDE Java de preferência.
 3. Compile e execute o projeto
